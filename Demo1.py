@@ -16,3 +16,4 @@
 import time
 
 time.sleep(12)
+time.time(12)
